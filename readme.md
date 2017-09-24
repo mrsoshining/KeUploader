@@ -25,3 +25,8 @@ __4.Open yourappid.appspot.com and enjoy. :-)__
 
 ![img](img/3.png)
 
+
+
+###appcfg.py update KindleEar/app.yaml KindleEar/module-worker.yaml
+###appcfg.py update KindleEar/
+这两句才是最重要的
